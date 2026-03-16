@@ -92,4 +92,4 @@ All content in this repository is © 2026 Your Name. Unauthorized copying, modif
 
 ## **Contact / Portfolio**
 
-* **Email:** [your.email@example.com](mailto:n3vrm1ndcode@gmail.com)
+* **Email:** [MAIL](mailto:n3vrm1ndcode@gmail.com)
