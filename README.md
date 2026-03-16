@@ -84,7 +84,7 @@ ML-WAF is a **demonstration of technical skill** in:
 ## **License**
 
 This project is **Proprietary / Closed Source**.
-All content in this repository is © 2026 Your Name. Unauthorized copying, modification, or redistribution is prohibited.
+All content in this repository is © 2026 N3vrm1nd. Unauthorized copying, modification, or redistribution is prohibited.
 
 > Note: This repository is **conceptual** — no live WAF source code is provided for security reasons.
 
